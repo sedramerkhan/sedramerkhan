@@ -32,7 +32,7 @@ Studying **Web Science (MWS)** and Working on mobile projects that combine moder
 ---
 
 ### Connect With Me
-Email: [seddramerkhan@gmail.com)(mailto:sedramerkhan@gmail.com)  
+Email: [sedramerkhan@gmail.com](mailto:sedramerkhan@gmail.com)  
 LinkedIn: [linkedin.com/in/sedra-merkhan](https://linkedin.com/in/sedra-merkhan)    
 GitHub: [github.com/sedramerkhan](https://github.com/sedramerkhan)
 
