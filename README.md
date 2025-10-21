@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 - Passionate about **Android Native Development** using **Kotlin** and **Java**  
 - Skilled in crafting modern UIs with **Jetpack Compose** and **XML**  
 - Proficient in **Flutter** for delivering seamless cross-platform experiences  
@@ -19,15 +19,25 @@
 
 ### Tech Stack
 **Languages:** Kotlin, Java, Dart, Python  
-**Frameworks & Tools:** Jetpack Compose, Flutter, Firebase, Android SDK  
+**Frameworks & Tools:** Android SDK, Jetpack Compose, Flutter, Firebase
 **Architectures:** MVVM, Repository Pattern  
-**Other Skills:** REST APIs, Graphql, Git, Debugging, Refactoring  
+**Other Skills:** REST APIs, Graphql, Git 
 **AI & NLP Tools:** TensorFlow, scikit-learn, NLTK, Transformers  
 
 ---
 
 ### Currently
 Studying **Web Science (MWS)** and Working on mobile projects that combine modern Android development practices with Android Native and Flutter.
+
+---
+
+### GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sedramerkhan&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sedramerkhan&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sedramerkhan&theme=tokyonight)
 
 ---
 
