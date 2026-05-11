@@ -2,7 +2,7 @@
 
 🎓 **IT Engineer specialized in Artificial Intelligence**  
 🎓 Currently pursuing a **Master’s degree in Web Science**   
-💻 **Mobile Developer** with over 3 years of experience in building Android and cross-platform applications.   
+💻 **Mobile Developer** with over 4 years of experience in building Android and cross-platform applications.   
 🚀 **Co-Founder of [CoKids](https://www.cokids-edu.com/)** ,An inclusive edtech startup helping all kids, every- where, learn coding through playful tools (An Android app with physical cards).
 
 ---
